@@ -14,7 +14,7 @@ const VideoPage = () => {
     3: 'https://d3d4djnialjdh4.cloudfront.net/WhatsApp%20Video%202024-11-10%20at%2021.10.30_6f3e325e.mp4',
     4: 'https://d3d4djnialjdh4.cloudfront.net/WhatsApp%20Video%202024-11-15%20at%2011.54.01_de8c9378.mp4',
     5: 'https://d3d4djnialjdh4.cloudfront.net/sample_video_4.mp4',
-    6: 'https://d3d4djnialjdh4.cloudfront.net/sample_video_5.mp4',
+    6: 'https://d3d4djnialjdh4.cloudfront.net/WhatsApp%20Video%202024-11-15%20at%2011.54.01_de8c9378.mp4',
   };
 
   const videoUrl = videoUrls[id];
